@@ -1,0 +1,3 @@
+# Offline-Sentiment-Analysis
+This contains Python implementation of offline sentiment analysis algo...
+Sample Implementation of Sentiment Analysis Module
